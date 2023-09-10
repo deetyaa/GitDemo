@@ -15,6 +15,7 @@ class TestHomePage(BaseClass):
 
         homePage=HomePage(self.driver)
         log.info("first Name is"+getData["firstname"])
+        log.info("Last Name is" + getData["lastname"])
         homePage.getName().send_keys(getData["firstname"])
         homePage.getEmail().send_keys(getData["lastname"])
         homePage.getCheckBox().click()
