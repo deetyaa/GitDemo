@@ -1,0 +1,138 @@
+2023-09-09 14:21:43,072 :INFO : test_e2e :getting all the  card titles
+2023-09-09 14:21:43,606 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 14:21:49,086 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 14:25:23,267 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 14:25:23,718 :INFO : test_formSubmission :gender isMale
+2023-09-09 14:25:24,084 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:25:24,100 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 14:25:24,100 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 14:25:24,470 :INFO : test_formSubmission :gender isFemale
+2023-09-09 14:25:24,470 :INFO : test_formSubmission :gender isFemale
+2023-09-09 14:25:24,693 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:25:24,693 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:30:17,552 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 14:30:18,016 :INFO : test_formSubmission :gender isMale
+2023-09-09 14:30:18,794 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:30:18,812 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 14:30:18,812 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 14:30:19,137 :INFO : test_formSubmission :gender isFemale
+2023-09-09 14:30:19,137 :INFO : test_formSubmission :gender isFemale
+2023-09-09 14:30:19,351 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:30:19,351 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:30:32,834 :INFO : test_e2e :getting all the  card titles
+2023-09-09 14:30:33,489 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 14:30:38,992 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 14:41:12,534 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 14:41:13,021 :INFO : test_formSubmission :gender isMale
+2023-09-09 14:41:13,370 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:41:13,657 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 14:41:13,657 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 14:41:13,990 :INFO : test_formSubmission :gender isFemale
+2023-09-09 14:41:13,990 :INFO : test_formSubmission :gender isFemale
+2023-09-09 14:41:14,270 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:41:14,270 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 14:41:25,873 :INFO : test_e2e :getting all the  card titles
+2023-09-09 14:41:26,455 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 14:41:32,159 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 16:47:51,604 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 16:47:51,931 :INFO : test_formSubmission :gender isMale
+2023-09-09 16:47:52,114 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:47:52,315 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 16:47:52,315 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 16:47:52,518 :INFO : test_formSubmission :gender isFemale
+2023-09-09 16:47:52,518 :INFO : test_formSubmission :gender isFemale
+2023-09-09 16:47:52,694 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:47:52,694 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:47:59,424 :INFO : test_e2e :getting all the  card titles
+2023-09-09 16:47:59,933 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 16:48:05,366 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 16:56:06,605 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 16:56:06,887 :INFO : test_formSubmission :gender isMale
+2023-09-09 16:56:07,072 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:56:07,083 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 16:56:07,083 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 16:56:07,345 :INFO : test_formSubmission :gender isFemale
+2023-09-09 16:56:07,345 :INFO : test_formSubmission :gender isFemale
+2023-09-09 16:56:07,584 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:56:07,584 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:56:18,606 :INFO : test_e2e :getting all the  card titles
+2023-09-09 16:56:19,337 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 16:56:24,910 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 16:56:42,761 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 16:56:43,197 :INFO : test_formSubmission :gender isMale
+2023-09-09 16:56:43,431 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:56:43,443 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 16:56:43,443 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 16:56:43,884 :INFO : test_formSubmission :gender isFemale
+2023-09-09 16:56:43,884 :INFO : test_formSubmission :gender isFemale
+2023-09-09 16:56:44,062 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:56:44,062 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 16:56:55,216 :INFO : test_e2e :getting all the  card titles
+2023-09-09 16:56:55,810 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 16:57:01,346 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 17:05:11,000 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 17:05:11,407 :INFO : test_formSubmission :gender isMale
+2023-09-09 17:05:11,659 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 17:05:11,671 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 17:05:11,671 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 17:05:12,042 :INFO : test_formSubmission :gender isFemale
+2023-09-09 17:05:12,042 :INFO : test_formSubmission :gender isFemale
+2023-09-09 17:05:12,304 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 17:05:12,304 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 17:05:23,767 :INFO : test_e2e :getting all the  card titles
+2023-09-09 17:05:24,190 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 17:05:29,801 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 17:14:51,709 :INFO : test_formSubmission :first Name isRahul
+2023-09-09 17:14:52,008 :INFO : test_formSubmission :gender isMale
+2023-09-09 17:14:52,262 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 17:14:52,369 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 17:14:52,369 :INFO : test_formSubmission :first Name isansuhaka
+2023-09-09 17:14:52,642 :INFO : test_formSubmission :gender isFemale
+2023-09-09 17:14:52,642 :INFO : test_formSubmission :gender isFemale
+2023-09-09 17:14:52,834 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 17:14:52,834 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
+2023-09-09 17:15:00,837 :INFO : test_e2e :getting all the  card titles
+2023-09-09 17:15:01,361 :INFO : test_e2e :Entering Country Name as ind
+2023-09-09 17:15:07,019 :INFO : test_e2e :Test  REcived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-09 18:34:25,085 :INFO : test_formSubmission :first Name islucky
+2023-09-09 18:34:25,372 :INFO : test_formSubmission :gender isfemale
+2023-09-09 18:35:57,323 :INFO : test_formSubmission :first Name islucky
+2023-09-09 18:35:57,605 :INFO : test_formSubmission :gender isfemale
+2023-09-09 18:36:35,846 :INFO : test_formSubmission :first Name islucky
+2023-09-09 18:36:36,129 :INFO : test_formSubmission :gender isfemale
+2023-09-09 18:37:00,971 :INFO : test_formSubmission :first Name islucky
+2023-09-09 18:37:01,266 :INFO : test_formSubmission :gender isFemale
+2023-09-09 18:37:01,539 :INFO : test_formSubmission :success messageis recived×
+Success! The Form has been submitted successfully!.
