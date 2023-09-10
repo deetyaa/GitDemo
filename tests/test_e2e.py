@@ -33,6 +33,7 @@ class  TestOne(BaseClass):
         for card in cards:
             i=i+1
             cardText=card.text
+            print(cardText)
             log.info(cardText)
             if cardText == "Blackberry":
                 checkOutPage.getCardFooter()[i].click()
@@ -46,6 +47,7 @@ class  TestOne(BaseClass):
         checkOutPage.getAgreeBtn().click()
         confirmPage=checkOutPage.getPurchaseBtn()
         success = confirmPage.getSuccessMessage().text
+        print(success)
         log.info("Test  REcived from application is "+success)
 
         assert "Success! Thank you!" in success
